@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">appModerno</string>
+    <string name="app_name">App Moderno</string>
+    <string name="welcome_message">Bem-vindo ao aplicativo</string>
+    <string name="button_login">Entrar</string>
 </resources>
