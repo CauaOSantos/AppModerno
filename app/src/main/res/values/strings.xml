@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">App Moderno</string>
-    <string name="welcome_message">Bem-vindo ao aplicativo</string>
-    <string name="button_login">Entrar</string>
+    <string name="app_name">StreamFlix</string>
+    <string name="featured">Em Destaque</string>
+    <string name="popular">Populares</string>
+    <string name="image_description">Imagem ilustrativa</string>
 </resources>
